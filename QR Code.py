@@ -1,6 +1,9 @@
 # pip istall ile qrcode ve Image kütüphanesini indirmeyi unutmayınız.
 # Do not forget to download the qrcode and Image library with pip install.
 import qrcode
+import os
+
+os.system("clear")
 
 print("""
 
